@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\point2Dand3D\bin\Debug\point2Dand3D.exe.config
+C:\Users\tuan\Desktop\point2Dand3D\bin\Debug\point2Dand3D.exe
+C:\Users\tuan\Desktop\point2Dand3D\bin\Debug\point2Dand3D.pdb
+C:\Users\tuan\Desktop\point2Dand3D\obj\Debug\point2Dand3D.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\point2Dand3D\obj\Debug\point2Dand3D.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\point2Dand3D\obj\Debug\point2Dand3D.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\point2Dand3D\obj\Debug\point2Dand3D.exe
+C:\Users\tuan\Desktop\point2Dand3D\obj\Debug\point2Dand3D.pdb
